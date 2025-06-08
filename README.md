@@ -1,0 +1,3 @@
+This project demonstrates the implementation of a Markov Chain data structure in C, used to model probabilistic transitions between states. 
+It includes two main applications: a text generator that creates random sentences based on an input text corpus and a Snakes and Ladders 
+simulator that uses a Markov Chain to simulate gameplay with probabilistic transitions.
