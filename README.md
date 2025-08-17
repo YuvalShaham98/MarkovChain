@@ -96,15 +96,3 @@ graph LR
 - Visualization tools for tweets and board game paths.  
 - Expand text generator to paragraphs or interactive dialogues.  
 
----
-
-## Credits  
-- Developed as part of the **Programming Workshop in C** course, Hebrew University of Jerusalem.  
-- Thanks to the course staff for providing the framework and tests.  
-
----
-
-## Contact  
-- Author: Yuval Jacobs  
-- Email: yuval.jacobs@example.com  
-- LinkedIn: [Your LinkedIn Profile]  
