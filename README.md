@@ -76,19 +76,6 @@ classDiagram
 ---
 
 ## Process Flow  
-### Random Sequence Generation  
-```mermaid
-flowchart LR
-  A[Start] --> B{first_node ?}
-  B -- no --> C[get_first_random_node()]
-  B -- yes --> D[use first_node]
-  C --> E[print(word)]
-  D --> E[print(word)]
-  E --> F{is_last(word) or max_length?}
-  F -- yes --> G[End]
-  F -- no --> H[get_next_random_node(word) \\ weighted by frequency]
-  H --> E
-```
 
 ### Example State Graph (Word Transitions)  
 ```mermaid
